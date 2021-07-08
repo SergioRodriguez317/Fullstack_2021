@@ -3,3 +3,4 @@ salida.txt
 otra cosa
 Nuevo commit en feature
 Master 1
+otro master 1
